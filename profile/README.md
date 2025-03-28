@@ -6,6 +6,6 @@
 
 <div style="text-align: center;">
   <a href="https://cavallotechnologies.ca/services" target="_blank">Services</a>: 
-  Data & Application Engineering | Big Data Analytics & Data Science | Cybersecurity & Infrastructure
+  <b>Data & Application Engineering</b> | <b>Big Data Analytics & Data Science</b> | <b>Cybersecurity & Infrastructure</b>
 </div>
 
